@@ -1,0 +1,10 @@
+name: Task
+description: Chore or non-feature work
+type: Task
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs doing
+    validations:
+      required: true
