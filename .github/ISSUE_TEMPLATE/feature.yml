@@ -1,0 +1,23 @@
+name: Feature request
+description: A new capability
+type: Feature
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem this solves
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Proposed approach
+      description: Optional
+    validations:
+      required: false
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters
+    validations:
+      required: false
