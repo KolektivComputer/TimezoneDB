@@ -16,7 +16,7 @@
 		"@fortawesome/vue-fontawesome": "3.3.3",
 		"@vueuse/core": "^9.10.0",
 		"pinia": "^2.0.33",
-		"pinia-plugin-persistedstate": "^3.0.2",
+		"pinia-plugin-persistedstate": "^4.7.1",
 		"prismjs": "^1.29.0",
 		"sass": "^1.60.0",
 		"vue": "^3.2.45",
